@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+    font-size: 80px;
+}
+
+body{
+    background-color: darkblue;
+    color: white;
+}
+
+#sound{
+    display: none;
+}
+
+select{
+    margin-bottom: 10px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#comecar{
+    background-color: dodgerblue;
+    color: white;
+    font-size: 30px;
+    padding: 8px 20px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
